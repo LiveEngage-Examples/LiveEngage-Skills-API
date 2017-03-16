@@ -2,6 +2,7 @@
  Web call needed to discover baseURI needed to call Users API for individual LiveEngage accounts for Accounts:
  This URL is for app keys that have Read/Write enabled on the API
  https://api.liveperson.net/api/account/{YOUR ACCOUNT NUMBER}/service/accountConfigReadWrite/baseURI.json?version=1.0
+ 
  Expected response example:
 {
  "service":"accountConfigReadWrite",
