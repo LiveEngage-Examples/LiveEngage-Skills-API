@@ -1,6 +1,7 @@
 /*
  * This is an example on how you can find you base domain for the LiveEngage Skill API. To run this example
  * you will need to install request, and you will need to update the URL below with your LiveEngage account number.
+ * 
  */
 
 // run -  npm install request
