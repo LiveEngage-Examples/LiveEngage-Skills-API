@@ -1,3 +1,5 @@
+*See LP developer site for API docs and guides: https://developers.liveperson.com/documents.html*
+
 # LiveEngage-Users-API
 This repository contains Node.js, Java, Python, and R examples for the LiveEngage Skills API.
 
